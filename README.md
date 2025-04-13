@@ -1,2 +1,2 @@
 # Little_Monkeys
-First Scratch program.  Watch as some mischievous little monkeys get themselves into trouble at bedtime.
+This is my first Scratch program.  Watch as some mischievous little monkeys get themselves into trouble at bedtime.
